@@ -1,0 +1,25 @@
+
+.characteristics__head{
+    text-align: center;
+}
+
+.characteristics__list{
+    margin: 0;
+    list-style: none;
+    align-items: center;
+}
+
+.characteristics__line{
+    display: flex;
+    color: black;
+    margin-left: 50px;
+    text-transform: uppercase;
+}
+
+.characteristics__name{
+    margin-right: 20px;
+}
+
+.characteristics__all{
+    margin-bottom: 120px;
+}
